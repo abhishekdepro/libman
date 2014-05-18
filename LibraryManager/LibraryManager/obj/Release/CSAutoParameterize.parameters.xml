@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-LibraryManager-20140429035735.mdf;Initial Catalog=aspnet-LibraryManager-20140429035735;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Abhishek\ De\\SkyDrive\\Library\ manager\\LibraryManager\\LibraryManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="librarymanagerConnectionString-Web.config Connection String" description="librarymanagerConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=VAIO\SQLEXPRESS;Initial Catalog=librarymanager;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Abhishek\ De\\SkyDrive\\Library\ manager\\LibraryManager\\LibraryManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='librarymanagerConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="libman_dbConnectionString-Web.config Connection String" description="libman_dbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=rx1uuq7ctu.database.windows.net;Initial Catalog=libman_db;Persist Security Info=True;User ID=abhishek;Password=v0d@f0ne" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Abhishek\ De\\SkyDrive\\Library\ manager\\LibraryManager\\LibraryManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='libman_dbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
