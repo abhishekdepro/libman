@@ -1,0 +1,5 @@
+C:\Users\Abhishek De\SkyDrive\Library manager\Library\Library\bin\Debug\Library.dll
+C:\Users\Abhishek De\SkyDrive\Library manager\Library\Library\bin\Debug\Library.pdb
+C:\Users\Abhishek De\SkyDrive\Library manager\Library\Library\obj\Debug\Library.dll
+C:\Users\Abhishek De\SkyDrive\Library manager\Library\Library\obj\Debug\Library.pdb
+C:\Users\Abhishek De\SkyDrive\Library manager\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
